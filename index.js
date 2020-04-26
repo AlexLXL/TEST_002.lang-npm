@@ -8,5 +8,6 @@
     else
         root["MyPlugin"] = factory();
 })(this, function () {
+
     alert('我的第一个npm包')
 })
