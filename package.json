@@ -1,0 +1,27 @@
+{
+	"name": "lang-publish-sunday",
+	"version": "0.0.1",
+	"description": "a test package",
+	"main": "index.js",
+	"bin": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AlexLXL/lang-npm.git"
+	},
+	"keywords": [
+		"music",
+		"player",
+		"vue",
+		"calamus"
+	],
+	"author": "alexlxl",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AlexLXL/lang-npm/issues"
+	},
+	"homepage": "https://github.com/AlexLXL/lang-npm.git",
+	"_from": "lang-publish-sunday@0.0.1"
+}
